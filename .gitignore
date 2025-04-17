@@ -18,3 +18,6 @@ ENV/
 # Ignore system files
 .DS_Store
 Thumbs.db
+
+!**/test_v1.csv
+!**/train_v1.csv
