@@ -1,5 +1,7 @@
 # Clustering Pipeline Project
 
+![Cluster Image](resources/cluster_image.png)
+
 This project provides a flexible command-line tool for running a variety of clustering algorithms on tabular data. It supports preprocessing, optional cleaning, and evaluation with clear, user-friendly feedback.
 
 ## Features
