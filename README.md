@@ -1,6 +1,8 @@
 # Clustering Pipeline Project
 
-![Cluster Image](resources/cluster_image.png)
+<p align="center">
+  <img src="resources/cluster_image.png" alt="Cluster Image" width="200"/>
+</p>
 
 This project provides a flexible command-line tool for running a variety of clustering algorithms on tabular data. It supports preprocessing, optional cleaning, and evaluation with clear, user-friendly feedback.
 
@@ -44,7 +46,6 @@ This project provides a flexible command-line tool for running a variety of clus
 ## Tips
 - All output cluster assignments are saved as `<algorithm>_clusters.csv`.
 - If you encounter errors, check the error message for a reference to `GUIDE.md`.
-- Data and result CSV files are ignored by git by default.
 
 ---
 
